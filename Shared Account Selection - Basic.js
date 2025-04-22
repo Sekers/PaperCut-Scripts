@@ -1,5 +1,5 @@
 /*
-* PaperCut Printer Script: Show Shared Account Selection Popup (BASIC)
+    PaperCut Printer Script: Show Shared Account Selection Popup (BASIC)
 */
 function printJobHook(inputs, actions) {
     // Set the shared accounts list array. (used for popup selection; unfortunately this cannot be dynamic from the PaperCut server)

@@ -1,5 +1,5 @@
 /*
-    PaperCut Printer Script: Show Shared Account Selection Popup
+    PaperCut Printer Script: Show Shared Account Selection Popup (ADVANCED)
 */
 function printJobHook(inputs, actions) {
     // Set the group to apply the script to.
